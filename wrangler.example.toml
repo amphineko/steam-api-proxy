@@ -1,0 +1,11 @@
+name = "steam-api-proxy"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+compatibility_date = "2021-12-10"
+
+[vars]
+ALLOWED_ORIGIN = "atomicneko-next.vercel.app,futa.moe,localhost"
+DEFAULT_ORIGIN = "https://futa.moe"
+STEAM_API_KEY = ""
